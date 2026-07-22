@@ -1,26 +1,34 @@
 # OIBSIP - Oasis Infobyte Data Science Internship
 
-## Task 1: Iris Flower Classification
+This repository contains the Data Science projects completed during my Oasis Infobyte Internship.
 
-### Project Description
-This project uses Machine Learning to classify Iris flowers into three species:
-- Setosa
-- Versicolor
-- Virginica
+## Tasks Completed
 
-### Technologies Used
+### Task 1: Iris Flower Classification
+- Built a Machine Learning model to classify Iris flowers into Setosa, Versicolor, and Virginica.
+- Algorithm Used: Random Forest Classifier
+- Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
+### Task 2: Car Price Prediction
+- Developed a Linear Regression model to predict car prices.
+- Performed data preprocessing, model training, prediction, and evaluation.
+- Tools: Python, Pandas, NumPy, Matplotlib, Scikit-learn
+
+### Task 3: Sales Prediction Using Python
+- Built a Linear Regression model to predict product sales using advertising data.
+- Evaluated the model using MAE, MSE, and R² Score.
+- Tools: Python, Pandas, NumPy, Matplotlib, Scikit-learn
+
+## Technologies Used
+
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 - Scikit-learn
+- Jupyter Notebook
 
-### Model Used
-Decision Tree Classifier
+## Author
 
-### Accuracy
-100%
-
-### Author
-Humaira
+**Humaira Saeed**
